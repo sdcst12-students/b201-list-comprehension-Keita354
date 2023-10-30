@@ -52,7 +52,7 @@ for x in [f"{i} x {j} = {i*j}" for i in range(1,11) for j in range(1,11)]:
 
 # Assignment
 * Work through the assignments in assignment.py to convert your code from your previous assignment to use list comprehension
-* Open up deck.py.  Use list comprehension with the 2 lists to create a new list that shows all 52 possible cards in a deck of cards, and then print the first 5 cards in thd deck.
+* Open up deck.py.  Use list comprehension with the 2 lists to create a new list that shows all 52 possible cards in a deck of cards, and then print the first 5 cards in the deck.
 
 # Further Practice
 * expand on your deck assignment. Some function ideas:
